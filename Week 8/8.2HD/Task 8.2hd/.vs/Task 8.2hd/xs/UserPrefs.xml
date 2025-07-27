@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6E449188-55E1-478F-A26B-3B2C0F733A52}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoinRepresentation.cs">
+    <Files>
+      <File FileName="CoinRepresentation.cs" Line="27" Column="12" />
+      <File FileName="TestGenerator.cs" />
+      <File FileName="Tester.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task 8.2hd" expanded="True">
+            <Node name="Task 8.2hd" expanded="True">
+              <Node name="CoinRepresentation.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Task_2208.2hd PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A7AC23D9-B3F0-48BA-9B5A-F879F22EC64A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Task6.2d PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="BoxOfCoins.cs">
+    <Files>
+      <File FileName="TestGenerator.cs" />
+      <File FileName="Tester (1).cs" />
+      <File FileName="BoxOfCoins.cs" Line="30" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task6.2d" expanded="True">
+            <Node name="Task6.2d" expanded="True">
+              <Node name="BoxOfCoins.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

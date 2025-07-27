@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9B3AC074-CBAB-48B7-8811-51675FB58157}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vector.cs">
+    <Files>
+      <File FileName="ISorter.cs" />
+      <File FileName="Vector.cs" Line="156" Column="1" />
+      <File FileName="Tester.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="task3.2" expanded="True">
+            <Node name="task3.2" expanded="True">
+              <Node name="Vector.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.task3.2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

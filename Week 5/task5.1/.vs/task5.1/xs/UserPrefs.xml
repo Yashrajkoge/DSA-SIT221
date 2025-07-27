@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D60850FE-9C06-4D65-A421-2B98D3DA5F82}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.task5.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DoublyLinkedList.cs">
+    <Files>
+      <File FileName="DoublyLinkedList.cs" Line="99" Column="10" />
+      <File FileName="INode.cs" Line="1" Column="1" />
+      <File FileName="Tester.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="task5.1" expanded="True">
+            <Node name="task5.1" expanded="True">
+              <Node name="DoublyLinkedList.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
